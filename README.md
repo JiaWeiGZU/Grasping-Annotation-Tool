@@ -1,3 +1,4 @@
+Description: This is a tool for annotating planar grasping of robots, which is used to annotate the rotated rectangular boxes for grasping. It is extremely practical and can also be applied to annotations in other aspects.
 Name：tool.rar
 https://pan.baidu.com/s/1KWw5PyRIpVENzIAPRgG63Q?pwd=jwvp Key: jwvp
 1.First, install this tool.
